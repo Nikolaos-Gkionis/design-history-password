@@ -19,6 +19,9 @@
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@x-govuk/govuk-eleventy-plugin": "^6.0.4",
+    "dotenv": "^16.4.1",
+    "express-basic-auth": "^1.2.1",
+    "http-proxy-middleware": "^2.0.6",
     "http-server": "^14.1.1",
     "rimraf": "^5.0.5",
     "sass": "^1.70.0"
