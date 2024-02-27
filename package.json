@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "@x-govuk/govuk-eleventy-plugin": "^6.0.4",
+    "@x-govuk/govuk-eleventy-plugin": "^6.0.5",
     "dotenv": "^16.4.5",
     "express-basic-auth": "^1.2.1",
     "http-proxy-middleware": "^2.0.6",
